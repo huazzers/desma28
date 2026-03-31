@@ -1,4 +1,4 @@
-site_name: ⛳ DESMA28 Interactivity
+site_name: 🌱 DESMA28 Interactivity
 theme: 
   name: simple-blog
   sidebar: true
@@ -13,8 +13,9 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js
 nav:
   - 🏠 Home: index.md
+  - 📜 Syllabus: syllabus.md
+  - 📅 Schedule: schedule.md
+  - 📌 Assignments: https://docs.google.com/document/d/1h-4Y8c9U50v0dFKp67S9M0lpJyYsVp5zOFEex2xJTKM/edit?usp=sharing
 plugins:
   - exclude:
       glob: 
-      - schedule.md
-      - syllabus.md

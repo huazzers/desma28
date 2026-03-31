@@ -44,185 +44,187 @@ document.querySelectorAll('a[href^="#"]')
 
 ---
 
-**LOCATION:** Broad 4230<br/>
-**TIME:** Tuesdays and Thursdays, 9 a.m. - 11:50 a.m.
+**LOCATION:** Broad Art Center 4220<br/>
+**TIME:** Tuesdays and Thursdays, 2:00 p.m. - 5:00 p.m.
 
 **INSTRUCTOR**<br/>
-Office hours: Thursdays 12 p.m. - 1 p.m., by appointment only.<br/>
+Office hours: Tuesdays 12:30 p.m. - 1:30 p.m. @ Game Lab (Broad 3252), by appointment only.<br/>
 Email: huazzers@g.ucla.edu
 
 **TEACHING ASSISTANT**<br/>
-Office hours: Tuesdays 12 p.m. - 1 p.m., by appointment only.<br/>
-Email: elliotbyu@g.ucla.edu
+Office hours: Thursdays 1 p.m. - 2 p.m. @ 4th floor undergrad lounge, by appointment only.<br/>
+Email: yjp324@g.ucla.edu
 
 
 
 ## Course Description
-This course introduces the fundamentals of programming interactive projects in game development software. 
+This course is an introduction to coding within the visual arts, with a focus on interactivity and how it relates to the following questions:
 
-Classwork focuses on familiarizing students with game engines, computer programming concepts, player experience, and other skills that are foundational to making digital games.
+* how software has affected the visual arts?
+* the potential of software within the visual arts?
+* why a designer or artist would want (or need) to write software?
 
-Lectures, exercises, and class projects teach skills needed to create digital games including custom rules, interactive physics systems, vectors, generative or randomized levels, save data, custom input systems, score-keeping, and sound. 
+<br>
 
-This course is offered in parallel with the concurrent courses, Game Design and Interactive Animation.
+Writing code involves a different mode of thinking and making. We will consider:
+
+* interactions with other people and the environment as the starting point for understanding interactions with code;
+* the power relationships, inequities, and biases embedded within software and technology across different roles of race, gender, sexuality, disability, and class;
+* strategic responses (as artists and designers) to the above structures within an increasingly software-driven world.
+
+<br>
+
+Each student will build a foundation in coding by applying these ideas and skills to a series of exercises and a final project. This foundation will serve as a core platform for future learning within the BA program and beyond. 
+
+This course will focus on six sets of ideas:  
+
+* Instructions and Statements  
+* Variables and Data
+* Conditionals and Response
+* Repetition and Iteration
+* Functions and Parameters
+* Object-Orientation and Arrays
+
+<br>
 
 ---
 
-## Course Prerequisites
-* DESMA 28 Interactivity
-* DESMA 101 Media Arts Introduction / DESMA 104 Design Futures
+## Class Structure
 
-This course will be heavy on C# scripting in Unity scripting API. If you haven't fulfilled the above pre-requisites but have **prior experience in either writing code or using the Unity game engine**, please let me know.
+We will spend most of the quarter working on short exercises for each topic (total of 6 exercises) that will eventually lead into a larger final project. 
 
----
+<br>
 
-## Learning Outcomes
-By the end of this course, you will be able to create a real-time, interactive software with custom rules, generative or randomized levels, save data, responsive controls, physics, sound, and simple animation. The skills you will learn in this class translate well to immersive media, generative animation, and other modes of human-computer expression.
+The first half of the quarter will generally follow this rhythm below\*: 
+> \**Note: Certain weeks will have some slight variation to this schedule! Always refer to our [schedule page](schedule.md) for the most up-to-date plan for that day.*
 
----
+- Each week, we will introduce a new set of topics through Reading + Media assignments, workshops, and a simple exercise.
+- **New Reading + Media assignments will be assigned on Tuesdays and are due at the start of Thursday classes the same week.**
+- Thursday classes will review the assigned Reading + Media materials through lectures, workshops, and **a new exercise assignment that will be due the following Tuesday.**
+- On Tuesdays when there's an exercise due, we will conduct **small group discussions** where students will share their work. 
 
-## Course Outline
+<br>
+The last two exercises (5 and 6) will have more time assigned to them than previous exercises, but will otherwise follow a structure similar to the above schedule. 
 
-### Unit 1: Generative Computation
-Design modular or procedural algorithms to create random/unique/dynamic behaviours, environments, and characters in Unity. 
+We will also have **TWO (2) mid-term reviews**, which will be conducted as individual meetings to discuss your previous exercises and general progress in the class thus far. 
 
-> **Week 1-3**
-</br>Intro to Unity Game Engine and C#, Vector fundamentals, Prefabs and Instantiation, Arrays and Randomness, UI
-> 
-> **Project 1: Auto-Generator**
-
-### Unit 2: Playing with Physics
-Using physics, math, gamepad mapping tools to design environments and mechanics for interactive gameplay.
-
-> **Week 3-6**
-</br>Level Design, Input Systems, Physics Simulations, Static Variables and Singletons, Sound, Coroutines, Persistent Data
-> 
-> **Project 2: Ball Game Remix**
-
-### Intermission: Alt-Engines
-Explore other tiny game engines!
-
-> **Week 7**
-</br>Alt-Game Engine Jam(s) -- Make an entire game in a single class.
-
-### Unit 3: Engine for Expression
-Using dialogue systems, inventory data, and cinematic affordances of the game engine to stage and contextualise your play experiences. 
-
-> **Week 7-10**
-</br>Cinematic Tools, Interactive Text, Inventory Databases
-> 
-> **Project 3: Zine Game**
+The remainder of the quarter will be used for one-on-one meetings and open studio time to work on the final project. 
 
 ---
 
 ## Assignments and Grading
-> See [*How To Submit*](./how-to-submit.md) on instructions for submitting Unity projects
 
 ### Course Breakdown
-> * Project 1: 15%
-> * Project 2: 25%
-> * Project 3: 25%
-> * Reading and Homeplay responses: 15%
-> * Participation: 20%
-> 
-> **Optional Extra credit**: Attend a Game Lab event, or any other guest talk, art exhibition, or performance related to games and interactive media, and tell me about your experience! 
+> * Participation: 15%
+> * Midterm Review 1 (Exercises 1~4): 40%
+> * Midterm Review 2 (Exercises 5~6): 25%
+> * Final Project: 20%
+> * Optional Extra Credit: 2%
+
+<br> 
+
+**Optional Extra credit**: 
+Write a response (500 word min.) about two interactive project (performance, website, game, installation), including the following:
+
+* introduce the project (who made it, what it's about, its context / history / intention..., how one should interact with it)
+* your personal experience + thoughts about the project (how *you* specifically interacted with it, what you thought or felt from the interaction, was it inspiring / could it be better / what worked and didn't work for you + explain why.)
+
+This doesn't have to be about a project you like. Your response should justify your feelings, thoughts, and any arguments about the piece through analysis, observation, and/or concrete examples.
+
+Email me your extra credit response by **Week 10 Friday (June 5), 11:59 p.m.**.
+
+<br>
 
 ### Evaluation Criteria
 
-#### Projects
-Considering the likelihood that everyone is coming in with different skillsets and coding experiences, the expectation for this class is that **you approach each project with your own level of skill and comfort in mind.** Design a project for yourself that **pushes your technical skills a little bit**, but also allows you to **lean into your existing strengths and practices.**
+All work will be evaluated based on the following considerations:
 
-We will evaluate your projects based on:
+* Completion of the assigned prompt;
+* The fundamental idea;
+* Articulation of this idea through the "look and feel" of the work;
+* The craft (e.g. details of images, motion, and interaction.)
 
-> * **Timely submission**</br>Did you submit your project on time? (see [*Late Work*](#late-work) for more details.)
-> * **Completion of Project Deliverables**</br>Did you submit your project files and documentation? 
-> * **Fulfilment of Project Requirements**</br>Does your project meet the intended direction and requirements of the assignment?
-> * **Attention to detail and craft**</br>Does the project run? Are there unintended bugs, glitches, etc.
-> * **Project scope / aesthetic and technical ambition**</br>Are you doing the bare minimum, or are you pushing yourself technically and/or aesthetically? 
-> * **Creative risk-taking / resourcefulness**</br>Are you pushing the limits of the tools and making full use of the possibilities they offer? Hacky solutions and unconventional "misuse" are perfectly acceptable and encouraged!
-
+Outstanding work will receive As, good work will receive Bs, sufficient work that does nothing more than meet requirements will receive Cs.
  
-#### Readings / Homeplays
+<br>
 
-Reading and homeplay responses will be assigned according to conceptual and technical topics covered in class, and are designed to support early ideation stages for each respective project assignment.
+#### Reading + Media
 
-These are graded pass/fail -- if you did the work, you will get full credit.
+Each project will be accompanied by a collection of readings, videos, and other media to look at. **You are expected to complete each item listed before the start of class the day it is due.** Doing so will make this class much easier and more enjoyable. If it is clear you are not doing this work, your grades will lower. 
 
+<br>
 
 #### Participation:
 
-Participation will be evaluated based on the following:
+Your participation grade will be evaluated based on the following:
 
-> * **Attendance**
-> * **Participation in class discussion / critique**
-> * **Active communication with TA and instructor in course-related matters**, including project discussions and attendance notices
-> * **Staying on task during in-class work periods**
+* **Attendance**
+* **Contribution to class discussions, workshops, and critique**
+* **Keeping up with the work and assignments**
+* **Active communication with the instructor and TA in course-related matters, including project check-ins and attendance notices.**
 
+<br>
 
 #### Attendance Policy
 
-**If you are more than 5 minutes late to class (ie. 9:05 a.m.)**, you will be marked as **late**. 
+**If you're more than 5 minutes late to class**, you will be marked as **late**.
 
-**Two late marks** results in **an unexcused absence**. 
+**Two late marks will result in an unexcused absence.**
 
 Unexcused absences will lower your grade. **More than three (>3) unexcused absences will result in an automatic fail**, and must be addressed on a case-by-case basis. 
 
-Any attendance-related disputes should be discussed with the TA within a week.
+**Any attendance-related disputes should be discussed with the TA within a week.**
 
-**If you anticipate being late or absent, you should inform me AND the TA before class begins.** It is also your responsibility to arrange alternative plans with me and the TA for any work you've missed from being absent (eg. attending office hours, sharing project updates, etc.)
+**If you anticipate being late or absence**, inform the instructor AND the TA before class begins. It will also be your responsibility to catch up on materials and turn in assignments on time, or negotiate alternative plans with the instructor otherwise. 
+
+<br>
 
 #### Late Work
 **On the day the project is due:**
 
-* Projects should be **ready to play** prior to the beginning of class.
+* Projects should be **ready to present** prior to the beginning of class.
 * Project files and documentation should be **submitted by 11:59PM** the same day.
 
 **If you anticipate that you won’t be able to complete the work by the due date**, please contact the instructor *before* the due date so we can discuss options.
 
+<br>
+
 #### Appropriation, Fair Use, and Generated Content
 
-Although generative AI, template projects, and readymade assets can offer seemingly more "professional" results quickly, your purpose here to learn, and the best way to learn is to do it yourself or make things with others around you. So even if it means spending more time getting less done, or making mistakes along the way, I strongly advise against using any shortcuts while you're in this class.
+**For all intents and purposes of this course, you should be writing your own code from scratch for all of your assignments in this class.** You are expected to be able to explain your workflow and intentions in your code through frequent commenting and during in-class discussions.
 
-You are also expected to develop your own assets for project submission -- use this opportunity to explore the [resources](#required-tools) available to you.
+Although generative AI, template projects, and readymade assets can offer seemingly more "professional" results quickly, your purpose here to learn, and the best way to learn is to do it yourself or make things with others around you. Even if it means spending more time getting less done, or making mistakes along the way, I strongly advise against using any shortcuts while you're in this class.
 
 <br>
 
-**The bottom line:** 
+**The bottom line:**
 
-1. No prompt-generating code from scratch -- we can tell. 
-2. If you're going to use generative tools, template projects, or readymade assets in your submission:
-    - consult the instructor or TA beforehand, and be able to justify your decision in doing so;
-    - cite your sources in your project submission. Failure to cite any major use of such resources will be considered an academic integrity violation and evaluated accordingly. 
+1. **No prompt-generating code from scratch -- we can tell.**
+2. Referencing and borrowing code may be acceptable at a small scale on a case-by-case basis, as long as you're able to do the following:
+    * mark all sections that were referenced / borrowed from elsewhere, and include the source in comments;
+    * **AND** use your own comments to explain what each part of the code is trying to do;
+    * **AND** justify the reason for referencing / borrowing this code, with prior consultation and approval from instructor and/or TA.
+3. When in doubt, try the following instead: 
+    * ask your peers -- I recommend setting up a group chat or community server where you can share resources and troubleshoot questions together. 
+    * refer to your assigned readings, media, or other community-driven resources (e.g. Processing documentation and examples, Coding Train YouTube Channel, Stack exchange)
+    * consult the instructor and/or TA through email, in class, or during office hours. 
 
-3. Placeholder assets are okay during early stage prototypes for testing mechanics. 
-4. All submitted projects should be original and developed within the duration of this class.
-5. If you have technical questions:
-    - ask the instructor or TA in class, through email, or book office hours;
-    - ask your peers during work time or outside of class -- I recommend setting up a group chat or discord server where you can share resources and troubleshoot questions together;
-    - browse [manuals, community forums, and tutorials](#c-scripting-and-unity-development) created by other practicing developers.
+**Any attempt to pass off uncited references and borrowed work (including prompt-generated results) as your own work will be considered a violation of academic integrity and will be evaluated accordingly. No credit will be given for plagiarized work.**
+
+<br>
 
 ---
 
 ## Resources
 
-### Readings / Homeplays
-All assigned readings and homeplay projects will be provided for you -- no need to purchase textbooks for this class. 
+### Coding References
 
-### Required Tools
-- **Unity** and **Visual Studio / Visual Studio Code (Mac)**
-- **A three-button mouse** -- always bring your mouse to class!
-- **2D and 3D production software of your choice:**
-    - [Krita](https://krita.org/en/) -- professional free and open source digital paint tool.
-    - [Blender](https://www.blender.org/) -- powerful free and open source 3D art and animation tool.
-    - [Piskel](https://www.piskelapp.com/) -- free pixel art app.
-    - [Aseprite](https://www.aseprite.org/) -- inexpensive pixel art and animation tool.
-    - [Sculptris](http://pixologic.com/sculptris/) -- “A gateway into the exciting world of 3D.”
-    - [Crocotile 3d](https://prominent.itch.io/crocotile3d) -- A tool for creating 3d scenes with 2d tiles.
-    - [Mixamo](https://www.mixamo.com/) -- Free, but requires a login. Includes community sourced walk cycles and 3D animations which you can apply to any model that can T-pose.
+- Processing.org, Reference documentation: [https://processing.org/reference](https://processing.org/reference)
+- Ben Fry and Casey Reas, [Processing: A Programming Handbook for Visual Designers and Artists (Second Edition)](https://mitpress.mit.edu/9780262028288/processing/)
+- Casey Reas, Chandler McWilliams, and LUST, [FORM + CODE in Design, Art, and Architecture](https://formandcode.com/)
 
-### Other Recommended Resources
-
-#### For Making Project Assets
+<!--
+### Sound Tools
 
 - [freesound.org](https://freesound.org/) -- audio database that has search filters sorted by licenses. login required for downloading files. good source for adding sound effects and music to your projects. 
 - [Audacity](https://www.audacityteam.org/) -- free software for recording and editing audio; the version without Muse Hub should suffice for your purposes.
@@ -230,18 +232,7 @@ All assigned readings and homeplay projects will be provided for you -- no need 
 - [Lovely Composer](https://1oogames.itch.io/lovely-composer) -- retro chiptune music-making software for $9.
 
 For more asset creation tools, check out this [exhaustive list of cheap and free tools compiled by Everest Pipkin](https://github.com/everestpipkin/tools-list#making-assets---images-models-sound-video).
-
-#### C# scripting and Unity development
-
-- Unity documentation -- [Scripting Reference](https://docs.unity3d.com/ScriptReference/index.html) and [Editor Manual](https://docs.unity3d.com/Manual/index.html).
-- Community Forums -- [Stack Exchange](https://stackexchange.com/), [Unity Discussions](https://discussions.unity.com/).
-- YouTube. Here are a few channels that are usually pretty good.
-    - [Unity’s official channel](https://www.youtube.com/playlist?list=PLX2vGYjWbI0RQ3O-nAuJd2LWm7lH5htrL)
-    - [Game Maker’s Toolkit](https://youtu.be/XtQMytORBmM)
-    - [Code Monkey](https://youtube.com/playlist?list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT)
-    - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) (no longer updated)
-    - [3 Minute Game Design](https://www.youtube.com/playlist?list=PLFFUZ_uHAWMU44iAlkVoXKnsOefNYdsaK)
-
+-->
 ---
 
 ## Campus-wide resources and information
@@ -280,9 +271,11 @@ If you find that external struggles and/or COVID related challenges are affectin
 Students must adhere to the current campus directives related to COVID-19 mitigation, and refusal to do so may result in the student being asked to leave the classroom or referred to the Dean of Students. For more information about COVID-19 requirements on campus, please visit: [https://covid-19.ucla.edu/information-for-students/](https://covid-19.ucla.edu/information-for-students/). 
 
 ### Center for Accessible Education (CAE)
-The UCLA Center for Accessible Education (CAE) is responsible for ensuring students with documented disabilities have access to an inclusive, supportive learning environment. Students with disabilities or other needs requiring academic accommodations should speak with me as early in the quarter as possible to be sure they get the support they need.
+UCLA strives to make all learning experiences as accessible as possible. If you anticipate or experience academic barriers based on a disability, please let the instructor know as soon as possible. 
 
-Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE) at (310) 825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit <a href="https://www.cae.ucla.edu">www.cae.ucla.edu</a>. 
+Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE) at (310) 825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit [www.cae.ucla.edu](https://www.cae.ucla.edu/). 
+
+After registration with CAE, make arrangements with the instructor to discuss how to implement these accommodations.
 
 ### Academic Integrity and Information on Student Conduct
 UCLA is a community of scholars. In this community, all members including faculty, staff and students alike are responsible for maintaining standards of academic honesty. As a student and member of the University community, you are here to get an education and are, therefore, expected to demonstrate integrity in your academic endeavors. You are evaluated on your own merits. Cheating, plagiarism, collaborative work, multiple submissions without the permission of the professor, or other kinds of academic dishonesty are considered unacceptable behavior and will result in formal disciplinary proceedings usually resulting in suspension or dismissal. As specified in the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/studentconductcode), violations or attempted violations of academic dishonesty include, but are not limited to, cheating, fabrication, plagiarism, multiple submissions or facilitating academic dishonesty. When a student is suspected to have engaged in academic dishonesty, Academic Senate regulations require that the instructor report the allegation to the office of the Dean of Students. For more information, see the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/studentconductcode).
