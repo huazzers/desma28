@@ -45,15 +45,15 @@ document.querySelectorAll('a[href^="#"]')
 ---
 
 **LOCATION:** Broad Art Center 4220<br/>
-**TIME:** Tuesdays and Thursdays, 2:00 p.m. - 5:00 p.m.
+**TIME:** Tuesdays and Thursdays, 9 a.m. - 12 p.m.
 
 **INSTRUCTOR**<br/>
-Office hours: Tuesdays 12:30 p.m. - 1:30 p.m. @ Game Lab (Broad 3252), by appointment only.<br/>
+Office hours: TBD<br/>
 Email: huazzers@g.ucla.edu
 
 **TEACHING ASSISTANT**<br/>
-Office hours: Thursdays 1 p.m. - 2 p.m. @ 4th floor undergrad lounge, by appointment only.<br/>
-Email: yjp324@g.ucla.edu
+Office hours: TBD<br/>
+Email: TBD
 
 
 
@@ -91,20 +91,16 @@ This course will focus on six sets of ideas:
 
 ## Class Structure
 
-We will spend most of the quarter working on short exercises for each topic (total of 6 exercises) that will eventually lead into a larger final project. 
+We will spend most of the quarter working on short assignments for each topic (total of 6 assignments) that will eventually lead into a larger final project. You're welcome to explore new ideas for each assignment, or you could try and connect multiple short assignments into a larger project idea. 
 
-<br>
+Here's the general rhythm that we'll follow:
 
-The first half of the quarter will generally follow this rhythm below\*: 
-> \**Note: Certain weeks will have some slight variation to this schedule! Always refer to our [schedule page](schedule.md) for the most up-to-date plan for that day.*
+- Each week, we will introduce a new set of topics through Reading + Media assignments, in-class workshops, a take-home exercise, and a simple assignment.
+- **New Reading + Media assignments and a take-home exercise will be assigned on Thursdays and are due at the start of Tuesday class the next week.**
+- Tuesday classes will review the assigned Reading + Media materials and take-home exercises through lectures and workshops; and a short assignment will be assigned, due Thursday the same week. 
+- On Thursdays when there's an exercise due, we will conduct **small group discussions** where students will share their work. 
 
-- Each week, we will introduce a new set of topics through Reading + Media assignments, workshops, and a simple exercise.
-- **New Reading + Media assignments will be assigned on Tuesdays and are due at the start of Thursday classes the same week.**
-- Thursday classes will review the assigned Reading + Media materials through lectures, workshops, and **a new exercise assignment that will be due the following Tuesday.**
-- On Tuesdays when there's an exercise due, we will conduct **small group discussions** where students will share their work. 
-
-<br>
-The last two exercises (5 and 6) will have more time assigned to them than previous exercises, but will otherwise follow a structure similar to the above schedule. 
+The last three assignments (4~6) will have more time asigned to them than previous exercises, but will otherwise generally follow a similar structure to the above schedule. 
 
 We will also have **TWO (2) mid-term reviews**, which will be conducted as individual meetings to discuss your previous exercises and general progress in the class thus far. 
 
@@ -116,22 +112,22 @@ The remainder of the quarter will be used for one-on-one meetings and open studi
 
 ### Course Breakdown
 > * Participation: 15%
-> * Midterm Review 1 (Exercises 1~4): 40%
-> * Midterm Review 2 (Exercises 5~6): 25%
+> * Midterm Review 1 (Assignments 1~3): 25%
+> * Midterm Review 2 (Assignments 4~6): 40%
 > * Final Project: 20%
 > * Optional Extra Credit: 2%
 
 <br> 
 
 **Optional Extra credit**: 
-Write a response (500 word min.) about two interactive project (performance, website, game, installation), including the following:
+Write a response (500 word min.) about two interactive projects you encountered outside of class (performance, website, game, installation), including the following:
 
 * introduce the project (who made it, what it's about, its context / history / intention..., how one should interact with it)
 * your personal experience + thoughts about the project (how *you* specifically interacted with it, what you thought or felt from the interaction, was it inspiring / could it be better / what worked and didn't work for you + explain why.)
 
 This doesn't have to be about a project you like. Your response should justify your feelings, thoughts, and any arguments about the piece through analysis, observation, and/or concrete examples.
 
-Email me your extra credit response by **Week 10 Friday (June 5), 11:59 p.m.**.
+Email me your extra credit response by **Week 10 Friday (December 4), 11:59 p.m.**.
 
 <br>
 
@@ -153,6 +149,30 @@ Outstanding work will receive As, good work will receive Bs, sufficient work tha
 Each project will be accompanied by a collection of readings, videos, and other media to look at. **You are expected to complete each item listed before the start of class the day it is due.** Doing so will make this class much easier and more enjoyable. If it is clear you are not doing this work, your grades will lower. 
 
 <br>
+
+#### Take-home exercises
+
+For some topics, there will be pre-assignment "exercises" that you will be asked to **complete at home** and **bring to the next class**. 
+
+While these exercises will not be assigned a grade, they will contribute towards your **class participation grade** as they are important for class discussions. Furthermore, these exercises are designed to **prepare you for the upcoming short assignment that you will be graded on**, so make sure to do them! 
+
+<br>
+
+#### In-class discussions
+
+During discussion days, the class will be broken up into three randomly-assigned "small discussion groups" for that day. The group will be different each week, please check the assignment document for your assigned group. 
+
+Each group will be assigned an hour-long discussion timeslot to attend during the usual class time. Showing up to your assigned timeslot will fulfil your attendance for that day.
+
+During these discussions, each of you should have roughly 7 minutes to share your assignment due for that day. To ensure a productive discussion session, **please come to class prepared to:**
+
+* run the sketches that you created for the assignment;
+* briefly explain the code you wrote in 1-2 minutes (remember to use comments!), how you arrived at the final result, and any other notable steps in your process;
+* share useful hacks or difficult hurdles that came up during your process, and request for specific feedback about your work.
+* ask questions and provide constructive feedback during your classmates' presentations about their assignments.
+
+<br>
+
 
 #### Participation:
 
@@ -191,22 +211,21 @@ Unexcused absences will lower your grade. **More than three (>3) unexcused absen
 
 #### Appropriation, Fair Use, and Generated Content
 
-**For all intents and purposes of this course, you should be writing your own code from scratch for all of your assignments in this class.** You are expected to be able to explain your workflow and intentions in your code through frequent commenting and during in-class discussions.
+**For all intents and purposes of this course, you should be writing your own code from scratch for all of your assignments in this class.** You are expected to be able to explain your workflow and intentions in your code through **frequent commenting** and **during in-class discussions**.
 
-Although generative AI, template projects, and readymade assets can offer seemingly more "professional" results quickly, your purpose here to learn, and the best way to learn is to do it yourself or make things with others around you. Even if it means spending more time getting less done, or making mistakes along the way, I strongly advise against using any shortcuts while you're in this class.
+Although generative AI, template projects, and readymade assets can offer seemingly more "professional" results quickly, your purpose here to learn, and the best way to learn is to do it yourself or make things with others around you. Even if it means spending more time getting less done, or creating mistakes and imperfections along the way, I strongly advise against using any shortcuts while you're in this class.
 
 <br>
 
 **The bottom line:**
 
 1. **No prompt-generating code from scratch -- we can tell.**
-2. Referencing and borrowing code may be acceptable at a small scale on a case-by-case basis, as long as you're able to do the following:
-    * mark all sections that were referenced / borrowed from elsewhere, and include the source in comments;
-    * **AND** use your own comments to explain what each part of the code is trying to do;
-    * **AND** justify the reason for referencing / borrowing this code, with prior consultation and approval from instructor and/or TA.
+2. Referencing and borrowing code may be acceptable at a **small scale**, on a **case-by-case** basis, as long as you're able to do the following:
+    * mark all sections that were referenced / borrowed from elsewhere in comments, including a link to reference the source, and an explanation **in your own words** what you were trying to do with this code;
+    * **AND** justify the reason for referencing / borrowing this code during class discussions.
 3. When in doubt, try the following instead: 
+    * review your workshop notes, reading + media resources, or other creditable community-driven resources (e.g. Processing documentation and examples, Coding Train YouTube Channel, Stack exchange)
     * ask your peers -- I recommend setting up a group chat or community server where you can share resources and troubleshoot questions together. 
-    * refer to your assigned readings, media, or other community-driven resources (e.g. Processing documentation and examples, Coding Train YouTube Channel, Stack exchange)
     * consult the instructor and/or TA through email, in class, or during office hours. 
 
 **Any attempt to pass off uncited references and borrowed work (including prompt-generated results) as your own work will be considered a violation of academic integrity and will be evaluated accordingly. No credit will be given for plagiarized work.**
@@ -240,10 +259,6 @@ For more asset creation tools, check out this [exhaustive list of cheap and free
 ### Land Acknowledgement
 
 > The University of California, Los Angeles occupies the ancestral, traditional, and contemporary Lands of the Tongva and Chumash peoples. Our ability to gather and learn here is the result of coercion, dispossession, and colonization. We are grateful for the land itself and the people that have stewarded it through generations. While a land acknowledgment is not enough, it is the first step in the work toward supporting decolonial and indigenous movements for sovereignty and self-determination. Read more about what land you’re occupying: [https://native-land.ca/](https://native-land.ca/) 
-
-<!--UCLA is a land grant institution that continues to benefit from federal land theft and genocide of indigenous peoples. Statewide UC campuses are built upon Native American land, among which include sacred burial sites that have yet to be fully repatriated to their respective indigenous communities. Today, UCLA is one of the largest landlords in the region, and remains complicit in furthering the expatriation of indigenous peoples both locally and internationally. 
-
-We're all living in the meta-game engine called the occupational forces of the US, and our ability to gather here is the result of the crimes against humanity outlined above. This acknowledgement should not serve to absolve one of settler guilt, but instead remind us of the deeply entrenched roots of colonialism, its mundane violence, and our subsequent participation in these systems as members of this campus.-->
 
 Other resources on land repatriation: 
 
