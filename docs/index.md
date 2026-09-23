@@ -34,11 +34,11 @@ Broad 4220<br/>
 Tuesdays and Thursdays, 9 a.m. - 12 p.m.
 
 **INSTRUCTOR**<br/>
-Office hours: TBD
+Office hours: Tuesdays, 12:30 p.m. - 1:30 p.m. @ Game Lab (By appointment only)<br/>
 Email: huazzers@g.ucla.edu
 
 **TEACHING ASSISTANT**<br/>
 Office hours: TBD<br/>
-Email: TBD
+Email: nhanphan@g.ucla.edu
 
 ---

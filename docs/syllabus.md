@@ -48,12 +48,12 @@ document.querySelectorAll('a[href^="#"]')
 **TIME:** Tuesdays and Thursdays, 9 a.m. - 12 p.m.
 
 **INSTRUCTOR**<br/>
-Office hours: TBD<br/>
+Office hours: Tuesdays, 12:30 p.m. - 1:30 p.m. @ Game Lab (By appointment only)<br/>
 Email: huazzers@g.ucla.edu
 
 **TEACHING ASSISTANT**<br/>
 Office hours: TBD<br/>
-Email: TBD
+Email: nhanphan@g.ucla.edu
 
 
 
