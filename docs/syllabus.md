@@ -52,7 +52,7 @@ Office hours: Tuesdays, 12:30 p.m. - 1:30 p.m. @ Game Lab (By appointment only)<
 Email: huazzers@g.ucla.edu
 
 **TEACHING ASSISTANT**<br/>
-Office hours: TBD<br/>
+Office hours: Thursdays, 2 p.m. - 3 p.m. @ Game Lab (By appointment only)<br/>
 Email: nhanphan@g.ucla.edu
 
 
@@ -74,7 +74,7 @@ Writing code involves a different mode of thinking and making. We will consider:
 
 <br>
 
-Each student will build a foundation in coding by applying these ideas and skills to a series of exercises and a final project. This foundation will serve as a core platform for future learning within the BA program and beyond. 
+Each student will build a foundation in coding by applying these ideas and skills towards a series of short assignments, which will lead into a final project. This foundation will serve as a core platform for future learning within the BA program and beyond. 
 
 This course will focus on six sets of ideas:  
 
@@ -91,18 +91,18 @@ This course will focus on six sets of ideas:
 
 ## Class Structure
 
-We will spend most of the quarter working on short assignments for each topic (total of 6 assignments) that will eventually lead into a larger final project. You're welcome to explore new ideas for each assignment, or you could try and connect multiple short assignments into a larger project idea. 
+Throughout the quarter, we will work on a short assignment for each topic (total of 6 assignments). Towards the end, you will select one of your assignments to expand into a larger final project. You're welcome to explore entirely new ideas for each short assignment, or connect multiple short assignments together in some way. 
 
 Here's the general rhythm that we'll follow:
 
 - Each week, we will introduce a new set of topics through Reading + Media assignments, in-class workshops, a take-home exercise, and a simple assignment.
-- **New Reading + Media assignments and a take-home exercise will be assigned on Thursdays and are due at the start of Tuesday class the next week.**
-- Tuesday classes will review the assigned Reading + Media materials and take-home exercises through lectures and workshops; and a short assignment will be assigned, due Thursday the same week. 
-- On Thursdays when there's an exercise due, we will conduct **small group discussions** where students will share their work. 
+- **New Reading + Media assignments and take-home exercises will be assigned on Thursdays and are due at the start of Tuesday class the next week.**
+- On Tuesday classes, we'll review the assigned Reading + Media materials and take-home exercises through in-class workshops and discussions; and a short assignment will be assigned, due Thursday the same week. 
+- On Thursdays when there's an assignment due, we will conduct **small group discussions** where students will share their work. 
 
 The last three assignments (4~6) will have more time asigned to them than previous exercises, but will otherwise generally follow a similar structure to the above schedule. 
 
-We will also have **TWO (2) mid-term reviews**, which will be conducted as individual meetings to discuss your previous exercises and general progress in the class thus far. 
+We will also have **TWO (2) mid-term reviews**, which will be conducted as individual meetings to discuss your previous exercises and general progress in the class thus far. You're welcome to renew any assignment submissions up until the day that they are due for mid-term review.
 
 The remainder of the quarter will be used for one-on-one meetings and open studio time to work on the final project. 
 
@@ -146,21 +146,21 @@ Outstanding work will receive As, good work will receive Bs, sufficient work tha
 
 #### Reading + Media
 
-Each project will be accompanied by a collection of readings, videos, and other media to look at. **You are expected to complete each item listed before the start of class the day it is due.** Doing so will make this class much easier and more enjoyable. If it is clear you are not doing this work, your grades will lower. 
+Each project will be accompanied by a collection of readings, videos, and other media to look at. **You are expected to complete each item listed before the start of class the day it is due.** Doing so will make this class much easier and more enjoyable. If it is clear you are not doing this work, your grades will be lowered.
 
 <br>
 
-#### Take-home exercises
+#### Pre-assignment exercises
 
 For some topics, there will be pre-assignment "exercises" that you will be asked to **complete at home** and **bring to the next class**. 
 
-While these exercises will not be assigned a grade, they will contribute towards your **class participation grade** as they are important for class discussions. Furthermore, these exercises are designed to **prepare you for the upcoming short assignment that you will be graded on**, so make sure to do them! 
+These exercises are important for class discussions, and are designed to **prepare you for the upcoming short assignment that you will be graded on**. Failure to complete this work will result in a lower grade.
 
 <br>
 
 #### In-class discussions
 
-During discussion days, the class will be broken up into three randomly-assigned "small discussion groups" for that day. The group will be different each week, please check the assignment document for your assigned group. 
+During discussion days, the class will be broken up into three randomly-assigned "small discussion groups" for that day. The groups will be different each week, please check the assignment document for your assigned group. 
 
 Each group will be assigned an hour-long discussion timeslot to attend during the usual class time. Showing up to your assigned timeslot will fulfil your attendance for that day.
 
@@ -195,15 +195,16 @@ Unexcused absences will lower your grade. **More than three (>3) unexcused absen
 
 **Any attendance-related disputes should be discussed with the TA within a week.**
 
-**If you anticipate being late or absence**, inform the instructor AND the TA before class begins. It will also be your responsibility to catch up on materials and turn in assignments on time, or negotiate alternative plans with the instructor otherwise. 
+**If you anticipate being late or absence**, inform the instructor AND the TA before class begins. It will also be your responsibility to catch up on materials and turn in assignments on time, or negotiate alternative plans with the instructor. 
 
 <br>
 
 #### Late Work
-**On the day the project is due:**
+
+**On the day a project is due:**
 
 * Projects should be **ready to present** prior to the beginning of class.
-* Project files and documentation should be **submitted by 11:59PM** the same day.
+* Any project files and documentation should be **submitted by 11:59PM** the same day.
 
 **If you anticipate that you won’t be able to complete the work by the due date**, please contact the instructor *before* the due date so we can discuss options.
 
@@ -213,18 +214,20 @@ Unexcused absences will lower your grade. **More than three (>3) unexcused absen
 
 **For all intents and purposes of this course, you should be writing your own code from scratch for all of your assignments in this class.** You are expected to be able to explain your workflow and intentions in your code through **frequent commenting** and **during in-class discussions**.
 
-Although generative AI, template projects, and readymade assets can offer seemingly more "professional" results quickly, your purpose here to learn, and the best way to learn is to do it yourself or make things with others around you. Even if it means spending more time getting less done, or creating mistakes and imperfections along the way, I strongly advise against using any shortcuts while you're in this class.
+Although generative AI, template projects, and readymade assets can offer seemingly more "professional" results quickly, that's not what we're here to do. Your purpose here is to learn, and the best way to do so is to practice on your own, or together with others around you. This may mean spending more time getting less done, or making mistakes and imperfections along the way -- and that is okay.
+
+This foundational course is a safe space to struggle through new information and skills. Your instructors, peers, and class resources are here to support you through your learning journey, so I strongly advise against using any major shortcuts while you're in this class.
 
 <br>
 
 **The bottom line:**
 
 1. **No prompt-generating code from scratch -- we can tell.**
-2. Referencing and borrowing code may be acceptable at a **small scale**, on a **case-by-case** basis, as long as you're able to do the following:
+2. Referencing and borrowing code may be acceptable at a **small scale** on a **case-by-case** basis, as long as you're able to do the following:
     * mark all sections that were referenced / borrowed from elsewhere in comments, including a link to reference the source, and an explanation **in your own words** what you were trying to do with this code;
     * **AND** justify the reason for referencing / borrowing this code during class discussions.
 3. When in doubt, try the following instead: 
-    * review your workshop notes, reading + media resources, or other creditable community-driven resources (e.g. Processing documentation and examples, Coding Train YouTube Channel, Stack exchange)
+    * review your workshop notes and reading + media resources; other creditable community-driven resources are also acceptable (e.g. Processing documentation and examples, Coding Train YouTube Channel, Stack exchange)
     * ask your peers -- I recommend setting up a group chat or community server where you can share resources and troubleshoot questions together. 
     * consult the instructor and/or TA through email, in class, or during office hours. 
 

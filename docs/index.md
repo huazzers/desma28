@@ -38,7 +38,7 @@ Office hours: Tuesdays, 12:30 p.m. - 1:30 p.m. @ Game Lab (By appointment only)<
 Email: huazzers@g.ucla.edu
 
 **TEACHING ASSISTANT**<br/>
-Office hours: TBD<br/>
+Office hours: Thursdays, 2 p.m. - 3 p.m. @ Game Lab (By appointment only)<br/>
 Email: nhanphan@g.ucla.edu
 
 ---

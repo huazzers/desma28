@@ -15,8 +15,8 @@ nav:
   - 🏠 Home: index.md
   - 📜 Syllabus: syllabus.md
   - 📅 Schedule: schedule.md
-  - 📌 Assignments: /#
-  - 🛠️ Workshop Notes: /#
+  - 📌 Assignments: https://docs.google.com/document/d/1CE28O66Wjmiwe2nOXSMyOfWMV45vfsEUyYtuHlsVDEM/edit?usp=sharing
+  - 🛠️ Workshop Notes: https://docs.google.com/document/d/1m4rn2RDK5RQsRuFXuc3frBn54Wh9xNg_-ku4pOyP6H0/edit?usp=sharing
 plugins:
   - exclude:
       glob: 
